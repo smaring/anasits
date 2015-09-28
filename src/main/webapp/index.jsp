@@ -3,7 +3,7 @@
 <head><title>AnaSits Pet Sitting - Kissimmee/Orlando</title></head>
 <body>
 
-<img src="images/dog_cat.jpg"/>
+<img src="/images/dog_cat.jpg"/>
 
 </body>
 </html>
